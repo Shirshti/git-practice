@@ -1,0 +1,1 @@
+git stash : it temporarily saves your uncommitted changes and clean your working directory 
